@@ -157,7 +157,7 @@ export const Header = () => {
                 </a>
               );
             })}
-            <a
+            {/* <a
               href="/admin"
               onClick={(e) => {
                 e.preventDefault();
@@ -167,7 +167,7 @@ export const Header = () => {
             >
               <Shield className="w-5 h-5" />
               <span className="font-medium">Admin Dashboard</span>
-            </a>
+            </a> */}
           </div>
         </div>
       )}
