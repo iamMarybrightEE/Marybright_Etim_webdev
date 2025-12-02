@@ -14,7 +14,7 @@ export const Work = () => {
       technologies: ['Next.js', 'Tailwind CSS', 'TypeScript'],
       live: 'https://unomstrategicpartnersltd.vercel.app/',
       github: 'https://github.com/iamMarybrightEE/UNOM',
-      image: '../../public/unom.png',
+      image: '/unom.png',
       category: 'Web Application',
     },
     {
@@ -24,7 +24,7 @@ export const Work = () => {
       technologies: ['Next.js', 'Tailwind CSS', 'Blockchain', 'TypeScript'],
       live: 'https://mchango-frontend-kappa.vercel.app/',
       github: 'https://github.com/iamMarybrightEE/mchango_frontend',
-      image: '../../public/mchango.png',
+      image: '/mchango.png',
       category: 'Web Application',
     },
     {
@@ -34,7 +34,7 @@ export const Work = () => {
       technologies: ['HTML5', 'CSS3', 'JavaScript', 'Responsive Design'],
       live: 'https://arit-foundation.vercel.app/',
       github: 'https://github.com/iamMarybrightEE/Arit-Foundation',
-      image: '../../public/arit.png',
+      image: '/arit.png',
       category: 'NGO Website',
     },
     {
